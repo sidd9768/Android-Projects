@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "679981388669",
+    "firebase_url": "https://anachronous-dbc78.firebaseio.com",
+    "project_id": "anachronous-dbc78",
+    "storage_bucket": "anachronous-dbc78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679981388669:android:b2c5070cbe88ad5d197214",
+        "android_client_info": {
+          "package_name": "com.example.anachronous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679981388669-58bits5vjjept32qitv6qhn2uv050e5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anachronous",
+            "certificate_hash": "95a605da43f79887ec011e38e575fb65096c2a83"
+          }
+        },
+        {
+          "client_id": "679981388669-gv8kcce7e7n3cm5mhrg8a9jchp0999g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAYNzmpFOYL8HNZSWeQp-4zvlfTvPHO5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679981388669-gv8kcce7e7n3cm5mhrg8a9jchp0999g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

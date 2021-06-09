@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81304965558",
+    "firebase_url": "https://nocturne-7244e.firebaseio.com",
+    "project_id": "nocturne-7244e",
+    "storage_bucket": "nocturne-7244e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81304965558:android:263d8d8d7c59022c7eb117",
+        "android_client_info": {
+          "package_name": "com.example.nocturne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81304965558-46gfqarspbk8ubo6ctqiqv1pg73457np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nocturne",
+            "certificate_hash": "95a605da43f79887ec011e38e575fb65096c2a83"
+          }
+        },
+        {
+          "client_id": "81304965558-9nlfqdt30ffsihe3b2mt541mg1mjhm2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOdAkehdIDPin2Owf03cf-5OW1kR2mgAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81304965558-9nlfqdt30ffsihe3b2mt541mg1mjhm2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
